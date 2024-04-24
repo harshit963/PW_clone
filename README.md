@@ -1,5 +1,7 @@
 # React + Vite
 
+pw-clone.vercel.app
+pw-clone-harshit-pals-projects.vercel.app
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Start - npm run dev
